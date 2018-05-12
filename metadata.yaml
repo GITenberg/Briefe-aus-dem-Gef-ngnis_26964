@@ -1,0 +1,32 @@
+_repo: Briefe-aus-dem-Gef-ngnis_26964
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Luxemburg, Rosa
+    alias: Junius
+    birthdate: 1871
+    deathdate: 1919
+    gutenberg_agent_id: '32368'
+    url: http://www.gutenberg.org/2009/agents/32368
+    wikipedia:
+    - http://de.wikipedia.org/wiki/Rosa_Luxemburg
+    - http://en.wikipedia.org/wiki/Rosa_Luxemburg
+description: ''
+gutenberg_bookshelf: DE Prosa
+gutenberg_issued: '2008-10-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26964'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Luxemburg, Rosa, 1871-1919'
+- !lcc 'HX'
+- !lcsh 'Communists -- Germany -- Correspondence'
+title: Briefe aus dem Gefängnis
+url: http://www.gutenberg.org/ebooks/26964
